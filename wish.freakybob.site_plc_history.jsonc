@@ -1,0 +1,106 @@
+{
+  "alsoKnownAs": [
+    "at://wishyt.bsky.social"
+  ],
+  "prev": null,
+  "rotationKeys": [
+    "did:key:zQ3shhCGUqDKjStzuDxPkTxN6ujddP4RkEKJJouJGRRkaLGbg",
+    "did:key:zQ3shpKnbdPx3g3CmPf5cRVTPe1HtSwVn5ish3wSnDPQCbLJK"
+  ],
+  "services": {
+    "atproto_pds": {
+      "endpoint": "https://russula.us-west.host.bsky.network",
+      "type": "AtprotoPersonalDataServer"
+    }
+  },
+  "sig": "tk_Xv5qC8HwrNq9ytowHJuBji77busQd5TeR1CNsI3waxEfgcggMY6kxjyuPSDzo8XoRlsvzyU9eskMOC1_anA",
+  "type": "plc_operation",
+  "verificationMethods": {
+    "atproto": "did:key:zQ3shdSpgDUSq759jnEo89k3R1jQFZy599UXg2vjSyyRz5y6W"
+  }
+}
+{
+  "alsoKnownAs": [
+    "at://wishdog.link"
+  ],
+  "prev": "bafyreiblvzdffzunrsjkpfp7m2jgdi5upfwmxjvuoieclax2o7gkglqtdm",
+  "rotationKeys": [
+    "did:key:zQ3shhCGUqDKjStzuDxPkTxN6ujddP4RkEKJJouJGRRkaLGbg",
+    "did:key:zQ3shpKnbdPx3g3CmPf5cRVTPe1HtSwVn5ish3wSnDPQCbLJK"
+  ],
+  "services": {
+    "atproto_pds": {
+      "endpoint": "https://russula.us-west.host.bsky.network",
+      "type": "AtprotoPersonalDataServer"
+    }
+  },
+  "sig": "_aFnPegxonb7aMRZwa2_iK8zG6C-XSM1YTsDQonzNVEI54Q1O20RDjOdEUD7tS-7Mdu4kVCemN8dGoEZPTLMCQ",
+  "type": "plc_operation",
+  "verificationMethods": {
+    "atproto": "did:key:zQ3shdSpgDUSq759jnEo89k3R1jQFZy599UXg2vjSyyRz5y6W"
+  }
+}
+{
+  "alsoKnownAs": [
+    "at://wishiscool.bsky.social"
+  ],
+  "prev": "bafyreieik4wjzmwg3cjz6mwe2ujwnwevseafxiqmyjlykz7nvlde2worme",
+  "rotationKeys": [
+    "did:key:zQ3shhCGUqDKjStzuDxPkTxN6ujddP4RkEKJJouJGRRkaLGbg",
+    "did:key:zQ3shpKnbdPx3g3CmPf5cRVTPe1HtSwVn5ish3wSnDPQCbLJK"
+  ],
+  "services": {
+    "atproto_pds": {
+      "endpoint": "https://russula.us-west.host.bsky.network",
+      "type": "AtprotoPersonalDataServer"
+    }
+  },
+  "sig": "rx4GWJccehxLGsSNBZHc7HatkEm93QCfOJJF3n9uZyQjAObcQYgeoX5btax7XnkDoQveqp04dDDPw3Wa4gSAKw",
+  "type": "plc_operation",
+  "verificationMethods": {
+    "atproto": "did:key:zQ3shdSpgDUSq759jnEo89k3R1jQFZy599UXg2vjSyyRz5y6W"
+  }
+}
+{
+  "alsoKnownAs": [
+    "at://wish.freakybob.site"
+  ],
+  "prev": "bafyreiathupyxhpz7nn6nys3hbdk2oxmlwvs6wyunzg2awl2u57kqfloge",
+  "rotationKeys": [
+    "did:key:zQ3shhCGUqDKjStzuDxPkTxN6ujddP4RkEKJJouJGRRkaLGbg",
+    "did:key:zQ3shpKnbdPx3g3CmPf5cRVTPe1HtSwVn5ish3wSnDPQCbLJK"
+  ],
+  "services": {
+    "atproto_pds": {
+      "endpoint": "https://russula.us-west.host.bsky.network",
+      "type": "AtprotoPersonalDataServer"
+    }
+  },
+  "sig": "NpZlW_G3Icyi1kXMoTX2Bx_J9U-XArdsWe5PF3_46FVO7ExNDKllwVjDDe-gLp3JOsWW4ZpSE6XsvLTetYdJBA",
+  "type": "plc_operation",
+  "verificationMethods": {
+    "atproto": "did:key:zQ3shdSpgDUSq759jnEo89k3R1jQFZy599UXg2vjSyyRz5y6W"
+  }
+}
+{
+  "alsoKnownAs": [
+    "at://wish.freakybob.site"
+  ],
+  "prev": "bafyreiatnzlmp3swenvc635vanwqbfatpfyyf6oi5cvbhb6t62i6fe3wl4",
+  "rotationKeys": [
+    "did:key:zQ3shhCGUqDKjStzuDxPkTxN6ujddP4RkEKJJouJGRRkaLGbg",
+    "did:key:zQ3shpKnbdPx3g3CmPf5cRVTPe1HtSwVn5ish3wSnDPQCbLJK",
+    "did:key:zDnaetx69CsqAfN7DDCXuB8kbPZp4YXwNzLChBkL7pfhvr4hq"
+  ],
+  "services": {
+    "atproto_pds": {
+      "endpoint": "https://russula.us-west.host.bsky.network",
+      "type": "AtprotoPersonalDataServer"
+    }
+  },
+  "sig": "UadGtA35RSAWbcOlTqKiqUNeXB2yMRSS_ZlYlgZpj8FriF1FW697_6TcWoKHRrEjC-xQPeQB22JCVul4F8f2tQ",
+  "type": "plc_operation",
+  "verificationMethods": {
+    "atproto": "did:key:zQ3shdSpgDUSq759jnEo89k3R1jQFZy599UXg2vjSyyRz5y6W"
+  }
+}
