@@ -13,14 +13,14 @@
       "id": "did:plc:foxemuxgrwgjfj4v75tjeynd#atproto",
       "type": "Multikey",
       "controller": "did:plc:foxemuxgrwgjfj4v75tjeynd",
-      "publicKeyMultibase": "zQ3shdSpgDUSq759jnEo89k3R1jQFZy599UXg2vjSyyRz5y6W"
+      "publicKeyMultibase": "zQ3shbrBeU4nyYntuL9jPEsgTjd83jL9d6cxMk7iV8bLLnZ8v"
     }
   ],
   "service": [
     {
       "id": "#atproto_pds",
       "type": "AtprotoPersonalDataServer",
-      "serviceEndpoint": "https://russula.us-west.host.bsky.network"
+      "serviceEndpoint": "https://pds.witchcraft.systems"
     }
   ]
 }

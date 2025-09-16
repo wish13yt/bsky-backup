@@ -1,12 +1,10 @@
 {
   "did": "did:plc:foxemuxgrwgjfj4v75tjeynd",
   "verificationMethods": {
-    "atproto": "did:key:zQ3shdSpgDUSq759jnEo89k3R1jQFZy599UXg2vjSyyRz5y6W"
+    "atproto": "did:key:zQ3shbrBeU4nyYntuL9jPEsgTjd83jL9d6cxMk7iV8bLLnZ8v"
   },
   "rotationKeys": [
-    "did:key:zQ3shhCGUqDKjStzuDxPkTxN6ujddP4RkEKJJouJGRRkaLGbg",
-    "did:key:zQ3shpKnbdPx3g3CmPf5cRVTPe1HtSwVn5ish3wSnDPQCbLJK",
-    "did:key:zDnaetx69CsqAfN7DDCXuB8kbPZp4YXwNzLChBkL7pfhvr4hq"
+    "did:key:zQ3shuT9p9qxyXwJaUPsegQ5GCp7fxyLsjDKS5nybPXSohght"
   ],
   "alsoKnownAs": [
     "at://wish.freakybob.site"
@@ -14,7 +12,7 @@
   "services": {
     "atproto_pds": {
       "type": "AtprotoPersonalDataServer",
-      "endpoint": "https://russula.us-west.host.bsky.network"
+      "endpoint": "https://pds.witchcraft.systems"
     }
   }
 }
